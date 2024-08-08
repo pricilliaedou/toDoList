@@ -28,7 +28,7 @@ li {
   gap: 15px;
   justify-content: space-between;
 }
-input {
+input#task {
   width: 400px;
   height: 30px;
   align-self: center;
@@ -52,4 +52,10 @@ button {
   background-color: lightgreen;
   margin: 20px;
   border-radius: 5px;
+}
+.fa-solid {
+  color: red;
+}
+.delete {
+  margin: 5px;
 }
